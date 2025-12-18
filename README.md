@@ -106,7 +106,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shivayapandey/medical_assistant.git
+git clone (https://github.com/Vedhesh418/Post-Recovery-AI-Assistant.git)
 cd medical-assistant
 ```
 
